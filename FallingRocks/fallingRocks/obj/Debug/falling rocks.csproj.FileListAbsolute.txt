@@ -1,6 +1,0 @@
-D:\SoftUni\JavaScript - Exam\Solution1\falling rocks\bin\Debug\falling rocks.exe.config
-D:\SoftUni\JavaScript - Exam\Solution1\falling rocks\bin\Debug\falling rocks.exe
-D:\SoftUni\JavaScript - Exam\Solution1\falling rocks\bin\Debug\falling rocks.pdb
-D:\SoftUni\JavaScript - Exam\Solution1\falling rocks\obj\Debug\falling rocks.csprojResolveAssemblyReference.cache
-D:\SoftUni\JavaScript - Exam\Solution1\falling rocks\obj\Debug\falling rocks.exe
-D:\SoftUni\JavaScript - Exam\Solution1\falling rocks\obj\Debug\falling rocks.pdb
